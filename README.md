@@ -1,4 +1,4 @@
-### I am a sophomore at IIITV pursuing CSE and exploring new techs. 👋
+### Hi There!👋 I am Kewal a sophomore from IIITV
 
 
 
