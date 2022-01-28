@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m currently working on MERN Stack projects
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on MERN project and Blockchain
 
-- 💬 Ask me about Node js MongoDb, Express js
+- 💬 Ask me about Node js MongoDb, React js
 - 📫 How to reach me: kewal.delhiwala5@gmail.com
 
 - ⚡ Fun fact: We learn web from exploring web😁
