@@ -17,5 +17,9 @@
 
 [![Kewal's github stats](https://github-readme-stats.vercel.app/api?username=kewal-wq&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewal-wq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewal-wq&layout=compact&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kewal-wq&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
