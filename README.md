@@ -15,7 +15,9 @@
 -->
 <h2> My GitHub Stats</h2>
 
-[![Kewal's github stats](https://github-readme-stats.vercel.app/api?username=kewal-wq&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewal-wq&theme=nightowl&layout=compact&hide=html)
+[![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=kewal-wq&theme=nightowl)](https://github.com/kewal-wq/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewal-wq&layout=compact&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
 
