@@ -11,7 +11,7 @@
 - 💬 Ask me about Node js MongoDb, React js
 - 📫 How to reach me: kewal.delhiwala5@gmail.com
 
-- ⚡ Fun fact: We learn web from exploring web😁
+- ⚡ Fun fact: Why do programmers user dark theme? Caz bugs are attracted to light😁
 -->
 <h2> My GitHub Stats</h2>
 
