@@ -18,7 +18,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewal-wq&theme=nightowl&layout=compact&hide=dart)
 [![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=kewal-wq&theme=nightowl)](https://github.com/kewal-wq/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kewal-wq&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay-K-2003&theme=gotham&hide_border=true" alt="Vijay's Github Streak" width="600"/>
 
 
