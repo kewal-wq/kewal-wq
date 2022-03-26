@@ -18,6 +18,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewal-wq&theme=nightowl&layout=compact&hide=dart)
 [![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=kewal-wq&theme=nightowl)](https://github.com/kewal-wq/github-readme-stats)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kewal-wq&theme=nightowl" alt="Kewal's Github Streak" width="600"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kewal-wq&theme=nightowl&hide_border=true" alt="Kewal's Github Streak" width="600"/>
 
 
