@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on MERN project and Blockchain
 
-- 💬 Ask me about Node js MongoDb, React js
+- 💬 Ask me about Node js MongoDb, MySql, React js
 - 📫 How to reach me: kewal.delhiwala5@gmail.com
 
 - ⚡ Fun fact: Why do programmers user dark theme? Caz bugs are attracted to light😁
